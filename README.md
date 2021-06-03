@@ -1,8 +1,6 @@
-## EchoNet Function Evaluation:<br/>Quantifying Model Variation in Assessing Cardiac Function
+## EchoNet Function Evaluation:<br/>Quantifying variation in LVEF due to common errors in LV tracing and view acquisition
 
-An automated end-to-end pipeline for  
-1) assessing cardiac function
-2) quantifying error in left ventricular ejection fraction calculation with slight clinical perturbations
+An automated end-to-end pipeline for quantifying error in left ventricular ejection fraction calculation with varying degrees of introduced measurement perturbations
 
 ## Dataset
 We simulated errors and ran calculations on 3,906 echocardiogram videos from EchoNet-Dynamic (https://echonet.github.io/dynamic/)
