@@ -2,6 +2,11 @@
 
 An automated end-to-end pipeline for quantifying error in left ventricular ejection fraction calculation with varying degrees of introduced measurement perturbations
 
+For more details, see the accompanying paper
+
+> [**Systematic Quantification of Sources of Variation in Ejection Fraction Calculation Using Deep Learning.**](https://www.sciencedirect.com/science/article/abs/pii/S1936878X21005088)<br/>
+  Yuan N, Jain I, Rattehalli N, He B, Pollick C, Liang D, Heidenreich P, Zou J, Cheng S, Ouyang D. PMID: 34274282. <b>JACC Cardiovasc Imaging. </b>, 2021 Jul 08.  https://pubmed.ncbi.nlm.nih.gov/34274282/
+
 ## Dataset
 We simulated errors and ran calculations on 3,906 echocardiogram videos from EchoNet-Dynamic (https://echonet.github.io/dynamic/)
 
